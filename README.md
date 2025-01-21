@@ -11,16 +11,19 @@ This project analyzes unemployment trends in India, Pakistan, and Bangladesh. It
 ([Sex, Age, Duration](https://rplumber.ilo.org/data/indicator/?id=UNE_TUNE_SEX_AGE_DUR_NB_A&ref_area=BGD+IND+PAK&type=label&format=.csv))
 
 ## Objective
+
 This projects aim to analyze and predict unemployment trends in three South Asian countries: India, Pakistan, and Bangladesh.
 
-### Key Goals:
+### Key Goals
+
 <ul>
   <li>Analysis: Understand the historical trends and patterns of unemployment.</li>
   <li>Insights: Identify socio-economic factors that contribute to unemployment.</li>
   <li>Prediction: Build a machine learning model to forecast unemployment rates.</li>
 </ul>
 
-### Deliverables:
+### Deliverables
+
 <ol>
   <li>
     Tableau Dashboard:
@@ -44,6 +47,7 @@ This projects aim to analyze and predict unemployment trends in three South Asia
 </ol>
 
 ## Key Questions to Address
+
 <ol>
   <li>
     Historical Trends:
