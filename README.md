@@ -1,18 +1,10 @@
-# Unemployment Analysis and Prediction in India, Pakistan and Bangladesh
+# Unemployment Analysis and Prediction in India and Pakistan
 
-This project analyzes unemployment trends in India, Pakistan, and Bangladesh. It uses data visualization and machine learning to identify key factors and predict future unemployment rates, providing insights for data-driven decision-making.
-
-#### Unemployment Data (API)
-
-([Sex, Age, Education](<https://rplumber.ilo.org/data/indicator/?id=UNE_TUNE_SEX_AGE_EDU_NB_Q&ref_area=BGD+IND+PAK&type=label&format=.csv>))
-
-([Sex, Age, Rural/Urban](https://rplumber.ilo.org/data/indicator/?id=UNE_TUNE_SEX_AGE_GEO_NB_Q&ref_area=BGD+IND+PAK&type=label&format=.csv))
-
-([Sex, Age, Duration](https://rplumber.ilo.org/data/indicator/?id=UNE_TUNE_SEX_AGE_DUR_NB_A&ref_area=BGD+IND+PAK&type=label&format=.csv))
+This project analyzes unemployment trends in India and Pakistan. It uses data visualization and machine learning to identify key factors and predict future unemployment rates, providing insights for data-driven decision-making.
 
 ## Objective
 
-This projects aim to analyze and predict unemployment trends in three South Asian countries: India, Pakistan, and Bangladesh.
+This projects aim to analyze and predict unemployment trends in three South Asian countries: India and Pakistan.
 
 ## Key Goals
 
@@ -23,7 +15,7 @@ This projects aim to analyze and predict unemployment trends in three South Asia
 ### Deliverables
 
 1. **Tableau Dashboard:**
-   - Interactive visuals showcasing unemployment trends, key contributing factors, and regional comparisons for India, Pakistan, and Bangladesh.
+   - Interactive visuals showcasing unemployment trends, key contributing factors, and regional comparisons for India and Pakistan.
 2. **Machine Learning Prediction Model:**
    - Predict future unemployment rates with clear evaluation metrics.
 3. **Recommendations:**
